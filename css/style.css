@@ -7,11 +7,7 @@ body {
     text-align: center;
 }
 
-header {
-    background-color: #111111;
-    color: white;
-    padding: 2rem 0;
-}
+header { background-color: #111111; }
 
 main {
     padding: 2rem;
